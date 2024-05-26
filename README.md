@@ -1,4 +1,4 @@
-# NPay
+# Modular Monolith
 
 ## About
 
